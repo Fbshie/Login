@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Login" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="textView1">
+        <item name="android:textColor">#cccccc</item>
+    </style>
+
+    <style name="editText1">
+        <item name="android:textColor">#cccccc</item>
+    </style>
+
+    <style name="spinner1">
+        <item name="android:textColor">#cccccc</item>
+    </style>
+</resources>
