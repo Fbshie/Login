@@ -15,6 +15,10 @@
         android:theme="@style/Theme.Login"
         tools:targetApi="31">
         <activity
+            android:name=".CuacaMainActivity"
+            android:exported="false"
+            android:label="Cuaca Pontianak"/>
+        <activity
             android:name=".ForexMainActivity"
             android:exported="false" />
         <activity
